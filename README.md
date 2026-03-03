@@ -9,7 +9,7 @@ Actuellement en formation chez Interface3. 🖥️
 ` MongoDB ` ` Insomnia ` </br>
 ` Illustrator ` ` Photoshop ` ` Figma `
 
-## Mes projets 
+## 🌱 Mes projets 🌱
 ### Mission progres
 Stack : ` HTML5 ` ` CSS3 ` ` JavaScript `
 
@@ -24,7 +24,7 @@ Stack : ` HTML5 ` ` CSS3 ` ` JavaScript `
 
 
 
-*** À la recherche d'un stage pour juin 2026. ⚙️ ***
+***À la recherche d'un stage pour juin 2026. ⚙️***
 
 
 
