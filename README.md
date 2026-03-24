@@ -1,6 +1,6 @@
 ## Salut 🙋🏻‍♀️
 
-Moi c'est Ceyda, une developeuse web en apprentissage.
+Moi c'est Ceyda, une developpeuse web en apprentissage.
 Actuellement en formation chez Interface3. 🖥️
 
 ## Langages et Frameworks
