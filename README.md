@@ -5,7 +5,7 @@ Actuellement en formation chez Interface3. 🖥️
 
 ## Langages et Frameworks
 
-` HTML5 ` ` CSS3 ` ` JavaScript ` ` React ` ` Node.js ` </br>
+` HTML5 ` ` CSS3 ` ` JavaScript ` ` React ` ` Tailwind CSS ` ` Node.js ` </br>
 ` MongoDB ` ` Insomnia ` ` WordPress ` </br>
 ` Illustrator ` ` Photoshop ` ` Figma `
 
